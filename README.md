@@ -1,16 +1,64 @@
-# React + Vite
+# React Tailwind Modern Hero Section
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive hero section built with **React.js** and **Tailwind CSS**, inspired by a clean Figma UI design.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Live Demo](https://your-live-demo-url.vercel.app/)
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1366" height="635" alt="React Tailwind Modern Hero Section - Google Chrome 10_2_2026 10_01_26 PM" src="https://github.com/user-attachments/assets/9b7defeb-e366-48f9-87b0-266e05178719" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Modern gradient hero section
+- Responsive design
+- Mobile, tablet, and desktop support
+- Clean and reusable React components
+- Responsive navigation bar
+- CTA buttons
+- Scroll-down indicator
+- Modern typography
+- Figma-inspired UI
+
+## 🛠️ Technologies
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- Vite
+- HTML5
+- CSS3
+
+## 📁 Project Structure
+
+```text
+Hero_Figma/
+└── my-app/
+    ├── public/
+    │   └── preview.png
+    │
+    ├── src/
+    │   ├── assets/
+    │   │   ├── hero.jpeg
+    │   │   └── scroll-down.png
+    │   │
+    │   ├── components/
+    │   │   └── UI/
+    │   │       ├── Hero/
+    │   │       │   └── Hero.jsx
+    │   │       │
+    │   │       └── Navbar/
+    │   │           └── Navbar.jsx
+    │   │
+    │   ├── App.jsx
+    │   ├── index.css
+    │   └── main.jsx
+    │
+    ├── .gitignore
+    ├── eslint.config.js
+    ├── index.html
+    ├── package.json
+    └── README.md
