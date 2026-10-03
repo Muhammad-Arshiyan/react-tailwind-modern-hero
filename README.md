@@ -4,7 +4,7 @@ A modern and responsive hero section built with **React.js** and **Tailwind CSS*
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-live-demo-url.vercel.app/)
+https://react-modern-hero.vercel.app/
 
 ## 📸 Preview
 
